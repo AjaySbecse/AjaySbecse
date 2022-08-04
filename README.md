@@ -2,7 +2,7 @@
 - 👀 I’m interested in app development and web development. 
 - 🌱 I’m currently learning flutter, android studio, React js.
 - 💞️ I’m looking to collaborate on open source project. 
-- 📫 You can reach me by mailing. ajays.cs19@bitsathy.ac.in
+- 📫 You can reach me by mailing. ajays.becse@gmail.com
 
 <!---
 AjaySbecse/AjaySbecse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
