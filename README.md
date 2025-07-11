@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ajay, Currently working in Zoho as a full stack developer. 
-- 👀 I’m interested in app development and web development. 
+- 👀 I’m interested in web development. 
 - 🌱 I’m currently learning system designs and design pattern to enhance my coding knowledge
 - 💞️ I’m looking to collaborate on open source project. 
 - 📫 You can reach me by mailing. ajays.becse@gmail.com
